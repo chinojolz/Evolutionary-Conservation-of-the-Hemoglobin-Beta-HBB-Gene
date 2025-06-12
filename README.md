@@ -54,6 +54,3 @@ The following bioinformatics tools and resources were utilized:
 
 **Explanation:** The phylogenetic tree constructed using MEGA X illustrates the evolutionary relationships among the species studied. The branch lengths indicate genetic divergence, with closer relationships observed between *Homo sapiens* and *Mus musculus* compared to *Danio rerio*.
 
-## Report Document
-
-The detailed report documenting the methodologies, analyses, and results of this project can be found in the file [HBB_MiniProject_Okezie Chinonso.pdf](HBB_MiniProject_OkezieChinonso.pdf)
