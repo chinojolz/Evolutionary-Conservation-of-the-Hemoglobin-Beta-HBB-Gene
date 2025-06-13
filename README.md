@@ -1,7 +1,7 @@
 # Evolutionary-Conservation-of-the-Hemoglobin-Beta-HBB-Gene
 ## Project Overview
 
-This project investigates the evolutionary conservation of the Hemoglobin Beta (HBB) gene across different species, specifically *Homo sapiens* (humans), *Mus musculus* (mice), and *Danio rerio* (zebra fish). The HBB gene encodes a vital component of hemoglobin, which is essential for oxygen transport in the bloodstream.
+This project investigates the evolutionary conservation of the Hemoglobin Beta (HBB) gene across different species, specifically *Homo sapiens* (humans), *Mus musculus* (mice), and *Danio rerio* (zebrafish). The HBB gene encodes a vital component of hemoglobin, which is essential for oxygen transport in the bloodstream.
 
 ## Objectives
 
@@ -52,5 +52,4 @@ The following bioinformatics tools and resources were utilized:
 ![Screenshot 2025-06-11 211136](https://github.com/user-attachments/assets/b81e7132-922d-4f93-8620-a636c1b24305)
 
 
-**Explanation:** The phylogenetic tree constructed using MEGA X illustrates the evolutionary relationships among the species studied. The branch lengths indicate genetic divergence, with closer relationships observed between *Homo sapiens* and *Mus musculus* compared to *Danio rerio*.
-
+**Explanation:** The phylogenetic tree constructed using MEGA X illustrates the evolutionary relationships among the species studied. The branch lengths indicate genetic divergence, the shorter branch length between *Homo sapiens* and *Mus musculus* (0.231) suggests a closer evolutionary relationship compared to *Danio rerio*, supporting the notion that mouse models are relevant for human biomedical research. 
