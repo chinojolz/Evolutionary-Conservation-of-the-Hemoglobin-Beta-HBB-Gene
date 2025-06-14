@@ -1,7 +1,7 @@
 # Evolutionary-Conservation-of-the-Hemoglobin-Beta-HBB-Gene
 ## Project Overview
 
-This project investigates the evolutionary conservation of the Hemoglobin Beta (HBB) gene across different species, specifically *Homo sapiens* (humans), *Mus musculus* (mice), *Danio rerio* (zebrafish), *Rattus norvegicus* (brown rat), *Lagothrix lagotricha* (woolly monkey), and *Bos taurus* (cow). The HBB gene encodes a vital component of hemoglobin, which is essential for oxygen transport in the bloodstream.
+The HBB gene encodes a vital component of hemoglobin, which is essential for oxygen transport in the bloodstream. This project investigates the evolutionary conservation of the Hemoglobin Beta (HBB) gene across different species, specifically *Homo sapiens* (humans), *Mus musculus* (mice), *Danio rerio* (zebrafish), *Rattus norvegicus* (brown rat), *Lagothrix lagotricha* (woolly monkey), and *Bos taurus* (cow). 
 
 ## Objectives
 
