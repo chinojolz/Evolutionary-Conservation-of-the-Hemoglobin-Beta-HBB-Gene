@@ -37,7 +37,7 @@ The following bioinformatics tools and resources were utilized:
 
 
 
-**Explanation:** The pairwise sequence alignment was performed using EMBOSS Needle. The output shows matched nucleotides represented by vertical lines, indicating conserved regions between the sequences of interest. It also shows the gap penalties, which are scores assigned when inserting gaps; the similarity score, which indicates how well the sequences align overall; and the match/mismatch, which identifies identical or different nucleotides at each position in the alignment. This alignment helps identify essential functional areas of the HBB gene.
+**Explanation:** The pairwise sequence alignment was performed using EMBOSS Needle. The output shows matched nucleotides represented by vertical lines, indicating conserved regions between the sequences of interest. It also shows the gap penalties, which are scores assigned when inserting gaps and the similarity score, which indicates how well the sequences align overall. This alignment helps identify essential functional areas of the HBB gene.
 
 ### 2. Multiple Sequence Alignment (MSA)
 
@@ -61,7 +61,7 @@ The following bioinformatics tools and resources were utilized:
 
 
 
-**Explanation:** The sequence logo generated using Skylign visually represents nucleotide conservation across the aligned sequences. The different colors represent the four nucleotides (A, T, C, G), with the most abundant nucleotides at specific positions being emphasized. Red typically indicates adenine (A) or thymine (T), while green and blue represent cytosine (C) and guanine (G), respectively. Specific positions with very high information content suggest critical functional sites in the HBB gene, which are likely essential for its biological role in oxygen transport. Lower columns indicate positions that show greater variability among the species, suggesting less evolutionary pressure to conserve those nucleotides.
+**Explanation:** The sequence logo generated using Skylign visually represents nucleotide conservation across the aligned sequences. The different colors represent the four nucleotides (A, T, C, G), with the most abundant nucleotides at specific positions being emphasized. Red typically indicates thymine (T), Green indicates adenine (A) while Blue and Yellow represent cytosine (C) and guanine (G), respectively. Specific positions with very high information content suggest critical functional sites in the HBB gene, which are likely essential for its biological role in oxygen transport. Lower columns indicate positions that show greater variability among the species, suggesting less evolutionary pressure to conserve those nucleotides.
 
 ### 4. Phylogenetic Tree Construction
 
